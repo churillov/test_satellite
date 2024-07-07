@@ -1,0 +1,13 @@
+/data/dataset/bags
+/data/dataset/full_body/
+/data/dataset/glasses/
+/data/dataset/lower_body/
+/data/dataset/other/
+/data/dataset/shoes/
+/data/dataset/upper_body/
+/data/dataset.csv
+/data/db/class_names.json
+/data/db/database.index
+/data/db/train_labels.json
+/venv/
+/notebooks/.ipynb_checkpoints/
